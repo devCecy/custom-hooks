@@ -1,0 +1,25 @@
+{
+  "name": "@cecy/use-clipboard",
+  "version": "1.0.1",
+  "description": "React Hook to copy your text in clipboard",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devCecy/custom-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "clipboard"
+  ],
+  "author": "devCecy <im.ceciliaan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devCecy/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/devCecy/custom-hooks#readme",
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
